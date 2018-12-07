@@ -55,7 +55,8 @@ The results after applying different thresholds are as shown below.
 #### 1. Provide an example of a distortion-corrected image.
 
 To demonstrate this step, I will describe how I apply the distortion correction to one of the test images like this one:
-![alt text][image2]
+
+<img src="./output_images/undistorted_test2.png" alt="drawing" width="800"/>
 
 #### 2. Describe how (and identify where in your code) you used color transforms, gradients or other methods to create a thresholded binary image.  Provide an example of a binary image result.
 
